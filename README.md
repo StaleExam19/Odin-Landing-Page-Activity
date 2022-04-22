@@ -1,1 +1,1 @@
-# Odin Landing Page Activiy
+# Odin Landing Page Activity
