@@ -1,0 +1,107 @@
+.header {
+    height: 65px;
+    background-color: var(--bg-dark);
+}
+
+.header-logo {
+    font-size: 1.75rem;
+    color: var(--text-light);
+}
+
+.hero-section {
+    background-color: var(--bg-dark);
+}
+
+.hero-text {
+    font-size: 3rem;
+    color: var(--text-light);
+}
+
+.hero-subtext {
+    font-size: 1.125rem;
+    color: var(--text-light-secondary);
+}
+
+
+.footer {
+    background-color: var(--bg-dark);
+}
+
+.cta-button {
+    background-color: var(--button-color);
+    padding: .5rem 2rem;
+    border-radius: 10px;
+    color: var(--text-light);
+}
+
+.cta-button-transparent {
+    background-color: transparent;
+    padding: .5rem 2rem;
+    border-radius: 10px;
+    color: var(--text-light);
+
+    border: 2px solid var(--text-light);
+}
+
+.link-text {
+    font-size: 1.125rem;
+}
+
+.info-section {
+    padding: 4rem 0;
+}
+
+.info-header-text {
+    font-size: 2.25rem;
+    color: var(--text-dark);
+}
+
+.random-info {
+    padding: 2rem 0;
+}
+
+
+.img {
+    height: 200px;
+    width: 200px;
+    background-color: var(--bg-secondary);
+    border-radius: 10px;
+}
+
+.img-subtext {
+    font-size: 1.125rem;
+    color: var(--text-dark);
+}
+
+.card {
+    padding: 0.5rem;
+    max-width: 200px;
+}
+
+
+.qoute-section {
+    background-color: var(--bg-secondary);
+}
+
+.qoute-text {
+    font-size: 2.25rem;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.qoute-author {
+    font-size: 1.125rem;
+}
+
+
+.call-to-action {
+    padding: 2rem 5rem;
+    background-color: var(--button-color);
+    border-radius: 10px;
+}
+
+
+.footer {
+    background-color: var(--bg-dark);
+    padding: 2rem 0;
+}
